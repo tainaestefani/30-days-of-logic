@@ -1,1 +1,1 @@
-# 30-days-of-logic
+# 🧠 30 Days of Logic
