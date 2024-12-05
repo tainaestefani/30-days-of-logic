@@ -32,8 +32,6 @@ Each day's folder contains:
 - **HackerRank**: Platform used for hosting and solving the problems.
 - **Git & GitHub**: Version control and collaboration.
 
-## 📜 License
+## 💻✨ Autor
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Happy coding! 💻✨
+[<img alt="Profile Pic" src="https://avatars.githubusercontent.com/u/154456749?v=4" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
