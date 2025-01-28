@@ -25,7 +25,7 @@ e f g
 
 There are **16 hourglasses** in a 6x6 array, and an hourglass sum is the sum of an hourglass' values.
 
-# Task
+## Task
 
 Calculate the hourglass sum for every hourglass in `arr`, then print the maximum hourglass sum.
 
