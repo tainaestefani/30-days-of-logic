@@ -31,5 +31,5 @@ You are not responsible for printing anything to stdout. The locked template cod
 ## Sample Output
 ```yaml
 I implemented: AdvancedArithmetic
-```
 12
+```
